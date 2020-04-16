@@ -15,6 +15,8 @@ list any other PRs this might depend on including database changes, infrastructu
 - [ ] no secrets committed to code
 - [ ] unit tests, end-to-end, integration test have been added
 - [ ] all tests pass 
+- [ ] performance / scalability 
+- [ ] security concerns
 
 ## Test Steps 
 Steps to test and verify this feature (unit, integration, manual). Please include pictures 
