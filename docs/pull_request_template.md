@@ -3,7 +3,7 @@ What are the changes in this PR.
 
 ## Jira Link
 
-## Dependencyies
+## Dependencies
 list any other PRs this might depend on including database changes, infrastructure changes (terraform) or other applications. 
 
 
